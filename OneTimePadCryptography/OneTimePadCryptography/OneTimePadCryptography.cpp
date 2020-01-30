@@ -16,6 +16,11 @@ std::string GenerateKey(int length)
 	return result;
 }
 
+std::string Encrypt(std::string plaintext)
+{
+
+}
+
 int main()
 {
 	std::cout << "Hello World!\n";
